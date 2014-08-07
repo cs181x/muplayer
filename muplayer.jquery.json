@@ -1,0 +1,28 @@
+{
+	"name": "muplayer",
+	"version": "2.1.2",
+	"title": "muPlayer - audio player",
+	"description": "jQuery plugin for creating HTML5 audio players",
+	"keywords": [
+		"audio",
+		"media",
+		"player",
+		"html5"
+	],
+	"author": {
+		"name": "Ryan Yang",
+		"email": "admin@ryan-yang.com",
+		"url": "http://ryan-yang.com/"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+	}],
+	"demo": "http://ryan-yang.com/muplayer/#demos",
+	"homepage": "http://ryan-yang.com/muplayer/",
+	"docs": "http://ryan-yang.com/muplayer/#documentation",
+	"download": "http://ryan-yang.com/muplayer/#download",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
