@@ -1,6 +1,6 @@
 {
 	"name": "muplayer",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"title": "muPlayer - HTML5 Multi Audio Player",
 	"description": "muPlayer allows you to play a list of audio files in the sequence you specified. It features a playlist that you can jump to play the audio you double clicked. You can specify the title, artist and album for each audio to be displayed on the player. It "
 	"keywords": [
