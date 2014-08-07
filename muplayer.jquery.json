@@ -1,7 +1,7 @@
 {
 	"name": "muplayer",
 	"version": "0.0.1",
-	"title": "muPlayer - audio player",
+	"title": "muPlayer - HTML5 Audio Player",
 	"description": "jQuery plugin for creating HTML5 audio players",
 	"keywords": [
 		"audio",
